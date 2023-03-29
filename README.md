@@ -52,7 +52,7 @@ On each entry page, the user should be able to click a link to be taken to a pag
 
 Clicking “Random Page” in the sidebar should take user to a random encyclopedia entry.
 
-Markdown to HTML Conversion:
+### Markdown to HTML Conversion:
 
  On each entry’s page, any Markdown content in the entry file should be converted to HTML before being displayed to the user. You may use the python-markdown2 package to perform this conversion, installable via pip3 install markdown2.
  
