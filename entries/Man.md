@@ -1,1 +1,0 @@
-a tall man with a beard entered the restaurant

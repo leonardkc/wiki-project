@@ -1,1 +1,0 @@
-Thinking correctly about God is of utmost importance because a false idea about God is idolatry. In Psalm 50:21, God reproves the wicked man with this accusation: “You thought I was altogether like you.” To start with, a good summary definition of God is “the Supreme Being; the Creator and Ruler of all that is; the Self-existent One who is perfect in power, goodness, and wisdom.”
