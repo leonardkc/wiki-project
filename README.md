@@ -6,7 +6,7 @@ Project 1 in CS50 2020 is to create a Django-based online encyclopedia that is s
 ### Demo
 To view it on YouTube, click the image below:
 
-<img src="https://youtu.be/mmFIynoThgY"
+<img src="Encyclopedia.png(https://youtu.be/mmFIynoThgY)"
 
 ### Setup
 Make sure [Python 3](https://https//www.python.org/) is installed on your computer.
